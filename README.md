@@ -1,7 +1,7 @@
 # Plant Co. Performance Dashboard
 
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/a0d9e769-e81a-4c8c-9235-763c8d4245bf/78893edb65d8a6275a90?experience=power-bi
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/a0d9e769-e81a-4c8c-9235-763c8d4245bf/78893edb65d8a6275a90?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiYzE2ODdiY2UtMmU4NS00ZGQxLWIwNzQtNDc3YzFlNTc1YzE2IiwidCI6ImYwZDU1YWNiLTY2ZmMtNGMyMS05YjIyLWU1MzIwOTRhNDg5YiJ9)
 
 ## About this project
 This interactive Power BI dashboard offers a comprehensive view of Plant Co.'s Performance over 3 years. It enables in-depth analysis of sales and profitability trends across time, products, and geographical regions, empowering decision-makers to identify key growth drivers and areas needing improvement.
