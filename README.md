@@ -30,3 +30,14 @@ This interactive Power BI dashboard offers a comprehensive view of Plant Co.'s P
 - KPIs trends are broken down into Indoor, Outdoor, and Landscape product categories for strategic product line assessments.
 
 <img width="1399" height="778" alt="Image" src="https://github.com/user-attachments/assets/685ca9e2-554b-49bb-a36d-85dfe4ccf764" />
+
+### Insights Delivered:
+- Strategic Decision-Making : Pinpoints growth opportunities and identifies profitability leaks by analyzing trends across time and geographies.
+- Profitability Segmentation : Highlights high- and low-performing accounts and products to optimize sales strategies.
+- Data-Driven Improvements : Empowers teams with actionable insights to refine market focus and product strategies.
+
+--------------------------------------------------------------------------------------------------------
+### Technical Details:
+- Dashboard Type: RWFD (Real World Fake Data)
+- Tool Used : Power BI, Excel
+- Project Type: Step-by-step recreation based on "Mo Chan" tutorial, focusing on data modeling, DAX, and visualization design.
